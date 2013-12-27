@@ -184,7 +184,12 @@ if ($homepage && $homepage_url !== '/') {
                 <div class="row">
                     <div class="span10 offset1">
                         <?php if ($options['image']) { ?>
-                            <img class="homepage-image" src="<?php echo $base_url ?>/<?php echo $options['image'];?>" alt="<?php echo $options['title'];?>">
+			    <?php if (strpos($options['image'], 'http') != 0) { ?>
+                                <img class="homepage-image" src="<?php echo $base_url ?>/<?php echo $options['image'];?>" alt="<?php echo $options['title'];?>">
+                            <?php } ?>
+			    <?php if (strpos($options['image'], 'http') == 0) { ?>
+                                <img class="homepage-image" src="<?php echo $options['image'];?>" alt="<?php echo $options['title'];?>">
+                            <?php } ?>
                         <?php } ?>
                     </div>
                 </div>
