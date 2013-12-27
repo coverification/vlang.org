@@ -1,14 +1,14 @@
 {
-    "name": "justinwalsh/daux.io",
+    "name": "coverify/vlang",
     "type": "project",
-    "license": "MIT",
-    "description": "Documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly",
-    "keywords": ["documentation", "docs", "markdown", "md"],
-    "homepage": "http://daux.io/",
+    "license": "Boost",
+    "description": "Opensource Functional Verification Language built on top of D Programming Language",
+    "keywords": ["verification", "uvm", "functional verification", "systemc", "systemverilog"],
+    "homepage": "http://vlang.org/",
     "authors": [
         {
-            "name": "Justin Walsh",
-            "homepage": "http://todaymade.com/"
+            "name": "Coverify Systems Technology",
+            "homepage": "http://coverify.com/"
         }
     ],
     "require": {

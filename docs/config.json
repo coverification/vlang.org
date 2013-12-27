@@ -1,17 +1,19 @@
 {
-	"title": "DAUX.IO",
-	"tagline": "The Easiest Way To Document Your Project",
-	"docs_path": "docs",
-	"image": "img/app.png",
-	"theme": "navy",
-	"date_modified": true,
-	"repo": "justinwalsh/daux.io",
-	"twitter": ["justin_walsh", "todaymade"],
-	"google_analytics": "UA-12653604-10",
-	"links": {
-		"Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-		"GitHub Repo": "https://github.com/justinwalsh/daux.io",
-		"Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-		"Made by Todaymade": "http://todaymade.com"
-	}
+    "title": "Opensource Verification Language, Vlang",
+    "logo": "<img src=/img/vlang-logo.png>",
+    "tagline": "",
+    "docs_path": "docs",
+    // the next one is a proprietory image, so we keep it away from the repo
+    "image": "http://coverify.net/mediawiki/skins/common/images/synch_fall.png",
+    "theme": "vlang",
+    "date_modified": true,
+    "repo": "coverify/vlang",
+    "twitter": ["v_lang", "coverify"],
+    "google_analytics": "UA-12653604-10",
+    "links": {
+	"Download": "https://github.com/coverify/vlang/archive/master.zip",
+	"GitHub Repo": "https://github.com/coverify/vlang",
+	"Help/Support/Bugs": "https://github.com/coverify/vlang/issues",
+	"Site Powered By DAUX.IO": "http://daux.io"
+    }
 }

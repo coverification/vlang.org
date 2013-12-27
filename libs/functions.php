@@ -58,7 +58,7 @@ function get_options() {
 
 	if ($options['theme'] !== 'custom') {
 		// Load Theme
-		if (!in_array($options['theme'], array("blue","navy","green","red"))) {
+		if (!in_array($options['theme'], array("blue","vlang","navy","green","red"))) {
 			echo "<strong>Daux.io Config Error:</strong><br>The theme you set is not not a valid option. Please use one of the following options: " . join(array_keys($themes), ', ') . ' or <a href="http://daux.io">learn more</a> about how to customize the colors.';
 			exit;
 		}
