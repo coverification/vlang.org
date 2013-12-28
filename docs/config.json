@@ -4,7 +4,7 @@
     "tagline": "",
     "docs_path": "docs",
     // the next one is a proprietory image, so we keep it away from the repo
-    "image": "http://coverify.net/mediawiki/skins/common/images/synch_fall.png",
+    "image": "http://verlang.org/media/images/synch_fall.png",
     "theme": "vlang",
     "date_modified": true,
     "repo": "coverify/vlang",
