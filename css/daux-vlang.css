@@ -197,7 +197,7 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
@@ -735,7 +735,7 @@ dd {
   margin-left: 180px;
 }
 hr {
-  margin: 20px 0;
+  margin: 0;
   border: 0;
   border-top: 1px solid #eeeeee;
   border-bottom: 1px solid #ffffff;
@@ -1204,7 +1204,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 label {
   display: block;
@@ -3436,7 +3436,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .brand {
   float: left;
   display: block;
-  padding: 10px 20px 10px;
+  padding: 0px 32px 0px;
   margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
@@ -3450,7 +3450,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .navbar-text {
   float: right;
   display: block;
-  padding: 10px 20px 10px;
+  padding: 0px 32px 0px;
   margin-right: -20px;
   font-size: 20px;
   font-weight: 200;
@@ -3534,7 +3534,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   margin-bottom: 0;
   padding: 4px 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
@@ -6300,7 +6300,7 @@ Homepage
 ============================================================================================== */
 .homepage-hero {
   padding-top: 50px !important;
-  background-color: #82becd;
+  background-color: #b2deed; /* 82becd */
   box-shadow: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -6385,7 +6385,7 @@ Homepage
 }
 .homepage-content.container-fluid ul,
 .homepage-content.container-fluid ol {
-  padding: 20px 0px;
+  padding: 10px 0px;
   margin: 0 0 10px 0px;
 }
 .homepage-content.container-fluid ul li,
@@ -6434,7 +6434,7 @@ Homepage
 .homepage-footer.container-fluid .footer-nav li a {
   font-family: 'Roboto Slab', serif;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 32px;
 }
 .homepage-footer.container-fluid .footer-nav li a:hover {
@@ -6473,7 +6473,7 @@ body {
 }
 .columns .left-column,
 .columns .right-column {
-   padding-top: 72px;
+   padding-top: 50px;
 }
 @media (max-width: 767px) {
   .columns .left-column,
@@ -6620,7 +6620,7 @@ a {
   background-color: #3f4657;
 }
 .btn.btn-sidebar:hover .icon-bar {
-  background-color: #82becd;
+  background-color: #b2deed; /* 82becd */
   box-shadow: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -6707,7 +6707,7 @@ code {
   margin-left: 15px;
 }
 .nav.nav-list li ul li a {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 20px;
@@ -6981,7 +6981,7 @@ table tr td:last-child {
 }
 #github-ribbon {
   position: absolute;
-  top: 72px;
+  top: 50px;
   right: 0;
   z-index: 200;
 }

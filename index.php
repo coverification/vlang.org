@@ -126,8 +126,7 @@ if ($homepage && $homepage_url !== '/') {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Font -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'>
-
+    <link href="<?php echo $base_url ?>/css/font-stylesheet.css" rel='stylesheet' type='text/css'>
     <!-- LESS -->
     <?php if ($options['colors']) { ?>
         <style type="text/less">
@@ -196,6 +195,16 @@ if ($homepage && $homepage_url !== '/') {
             </div>
         </div>
 
+        <div class="homepage-content container-fluid">
+            <div class="container">
+                <div class="row">
+                    <div class="span10 offset1">
+                        <?php echo $page['html'];?>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="hero-buttons container-fluid">
             <div class="container">
                 <div class="row">
@@ -216,16 +225,6 @@ if ($homepage && $homepage_url !== '/') {
                             View Documentation
                         </a>
                         <?php } ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="homepage-content container-fluid">
-            <div class="container">
-                <div class="row">
-                    <div class="span10 offset1">
-                        <?php echo $page['html'];?>
                     </div>
                 </div>
             </div>
