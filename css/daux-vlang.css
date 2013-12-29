@@ -917,7 +917,7 @@ a.badge:focus {
 }
 .label-inverse,
 .badge-inverse {
-  background-color: #404040;
+  background-color: #555;
 }
 .label-inverse[href],
 .badge-inverse[href] {
@@ -3725,8 +3725,8 @@ input[type="submit"].btn.btn-mini {
 }
 .navbar .nav li.dropdown > a:hover .caret,
 .navbar .nav li.dropdown > a:focus .caret {
-  border-top-color: #404040;
-  border-bottom-color: #404040;
+  border-top-color: #555;
+  border-bottom-color: #555;
 }
 .navbar .nav li.dropdown.open > .dropdown-toggle,
 .navbar .nav li.dropdown.active > .dropdown-toggle,
@@ -5104,7 +5104,7 @@ a.thumbnail:focus {
   right: 0;
   bottom: 0;
   padding: 15px;
-  background: #404040;
+  background: #555;
   background: rgba(0, 0, 0, 0.75);
 }
 .carousel-caption h4,
@@ -6410,7 +6410,7 @@ Homepage
   }
 }
 .homepage-footer.container-fluid {
-  background-color: #404040;
+  background-color: #555;
   box-shadow: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -6640,7 +6640,7 @@ code {
   background-image: none;
   -ms-filter: none;
   filter: none;
-  background-color: #404040;
+  background-color: #555;
   border-bottom: none;
   padding: 6px 20px;
 }

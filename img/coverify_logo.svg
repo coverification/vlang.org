@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="70.984726"
-     inkscape:cy="11.169415"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="75.006405"
+     inkscape:cy="12.622488"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -77,7 +77,7 @@
      id="layer1"
      transform="translate(214.23611,-993.50342)">
     <rect
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3055"
        width="128"
        height="40"
@@ -108,7 +108,7 @@
          style="font-size:28px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Pirulen Rg;-inkscape-font-specification:PirulenRg-Bold" />
     </text>
     <text
-       style="font-size:28px;font-family:Pirulen;-inkscape-font-specification:Pirulen"
+       style="font-size:28px;font-family:Pirulen;-inkscape-font-specification:Pirulen;fill:#ffb380"
        id="text32"
        x="-215.5321"
        y="1024.7675">
@@ -116,7 +116,7 @@
          id="tspan34"
          y="1024.7675"
          x="-215.5321"
-         style="font-size:32px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#d14836;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Pirulen;-inkscape-font-specification:Pirulen Bold">C</tspan>
+         style="font-size:32px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Pirulen;-inkscape-font-specification:Pirulen Bold">C</tspan>
     </text>
     <text
        xml:space="preserve"
@@ -129,10 +129,10 @@
          id="tspan3310"
          x="-200.62311"
          y="1019.8394"
-         style="font-weight:bold;letter-spacing:1.01848698000000004;fill:#e6e6e6;-inkscape-font-specification:Pirulen Bold">overify</tspan></text>
+         style="font-weight:bold;letter-spacing:1.01848698000000004;fill:#ffffff;-inkscape-font-specification:Pirulen Bold">overify</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:63.99999857000000247%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Pirulen;-inkscape-font-specification:Pirulen Bold"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:63.99999856999999537%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Pirulen;-inkscape-font-specification:Pirulen Bold"
        x="-200.62311"
        y="1019.8394"
        id="text4094"
@@ -142,7 +142,7 @@
          x="-200.62311"
          y="1019.8394">o</tspan></text>
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4098"
        width="14.000001"
        height="10.000009"
@@ -151,28 +151,28 @@
     <g
        id="g3939"
        transform="matrix(0.75,0,0,0.75,-61.220611,253.71191)"
-       style="fill:#404040;fill-opacity:1">
+       style="fill:#555555;fill-opacity:1">
       <rect
          y="1009.0554"
          x="-181.354"
          height="7.9999905"
          width="16.000006"
          id="rect4105"
-         style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <rect
          y="1006.3887"
          x="-178.68733"
          height="13.333344"
          width="4.000001"
          id="rect4107"
-         style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <rect
          y="1006.3887"
          x="-172.02066"
          height="13.333344"
          width="3.9999957"
          id="rect4109"
-         style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
   </g>
 </svg>

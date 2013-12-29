@@ -1,5 +1,7 @@
 <p class="lead">
-	<strong>Vlang</strong> is an OpenSource Verification Language. Vlang is built on top of D Programming Language and implements a port of UVM (Universal Verification Methodology) and a discrete event simulator. Vlang interfaces with Verilog and VHDL simulators using VPI and VHPI interfaces respectively.
+<strong>Vlang</strong> is an <a href=http://en.wikipedia.org/wiki/Domain-specific_language>Embedded Domain Specific Language</a> for Hardware Verification. Vlang is built on top of <a href=http://dlang.org>D Programming Language</a>, and inherits D's programming strengths including C like syntax, automatic garbage collection, first class arrays, associative arrays, and many more. Vlang extends D with a sophisticated Constraint Solver, Discrete Event Simulator, and a complete port of Universal Verification Methodology. Vlang also interfaces seemlessly with Verilog, VHDL and SystemC. A feature comparison with other popular Verification Languages is available <a href=http://vlang.org>here</a>.
+
+Vlang is a Free Opensource Software released under <a href=http://www.boost.org/LICENSE_1_0.txt>Boost Software License</a>.
 </p>
 
 <!-- Google Code -->
